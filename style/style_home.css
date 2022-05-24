@@ -1,0 +1,102 @@
+body{
+  background-image: url('/img/bg.png');
+  width: 100%;
+  height: 100%;
+}
+
+.navbar {
+  background-color: rgba(255, 255, 255, 0.384);
+  height: auto;
+  border-radius: 10px;
+}
+
+
+.content{
+  background-color: rgba(255, 255, 255, 0.384);
+  height: auto;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.content_hide{
+  height: auto;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.h1{
+  color: white;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 50px;
+}
+.p_content{
+  text-align: center;
+  padding: 20px;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+}
+
+a{text-decoration: none; font-size: 20px;font-family: sans-serif;padding: 14px 10px}
+ul{padding: 14px; text-align: left;}
+.ul1{padding: 14px; text-align: right;}
+li{list-style: none; display: inline;}
+li a{background: rgba(19, 112, 55, 0); color:#000000; border-radius: 5px;}
+li a:hover{background: #4da4ff; color:#fff;}
+.navi{height: 50px;}
+
+button{
+    border: none;
+    padding: 13px 17px;
+    border-radius: 10px;
+    color: black;
+    display: inline-block;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 15px;
+}
+.warna{background-color: rgb(174, 233, 156);}
+
+button:hover{
+    background-color: #E58F16;
+}
+
+form {
+  text-align: center;
+  margin:auto;
+}
+
+.search {
+  background: rgb(255, 255, 255); 
+  border:5px solid #ffffff;
+  border-radius: 10px;
+  max-width: 100%;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+.button {
+  position:relative;
+  left:-4px;
+  padding:10px 15px;
+  border:0px solid #008080;
+  background-color: #6fdf50;
+  color:#000000;
+  font-weight:bold;
+  border-radius: 50px;
+  margin-left: 10px;
+}
+.button:hover {
+    background: #008080;
+    color:#fafafa;
+  }
+.button:active {
+    background:#9ACD32;
+  }
+
+.button1 {
+    left:4px;
+    border:0px solid #008080;
+    color: rgb(255, 255, 255);
+    font-weight:bold;
+  }

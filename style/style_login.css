@@ -1,0 +1,54 @@
+.login{
+  background-color: rgba(255, 255, 255, 0.384);
+  height: auto;
+  border-radius: 10px;
+  margin: 50px;
+  text-align: center;
+  padding: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.signup{
+  font-weight: bold;
+  text-align: left;
+  padding: 10px;
+  
+}
+p{
+  background-color: rgb(24, 15, 145);
+  color: white;
+  
+}
+.btn1{
+  background-color: rgb(23, 129, 94);
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+table {
+  text-align: center;
+}
+th{
+  padding: 10px;
+}
+.td1{
+  padding: 10px;
+  color: rgb(27, 88, 8);
+}
+
+.td0{
+  padding: 10px;
+  color: rgb(165, 16, 16);
+}
+
+.tdpay{
+  padding: 10px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(45, 94, 73);
+}
